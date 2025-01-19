@@ -2843,8 +2843,6 @@ exports.default = SelectPanel;
 
 __webpack_require__(7);
 __webpack_require__(6);
-(function webpackMissingModule() { throw new Error("Cannot find module \"./dist/bundled.js\""); }());
-
 
 /***/ })
 /******/ ])));
